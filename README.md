@@ -27,7 +27,9 @@ $ ./up.sh
 
 2. Datasource & Dashboard in Home should've been shown as complete (because it's pre-configured). 
 
-3. Access the pre-created dashboard titled 'Wifi Bandung Juara'. Expected visual here :
+3. Access the pre-created dashboard titled 'Wifi Bandung Juara'.
+
+#### Expected visual
 ![Grafana-Dashboard](https://raw.githubusercontent.com/revawiki/Provisioned-Grafana-MySQL-Data-Visualization/master/dashboard.PNG "Grafana-Dashboard")
 
 ## Built With

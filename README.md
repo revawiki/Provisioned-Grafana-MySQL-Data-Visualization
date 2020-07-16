@@ -34,15 +34,15 @@ $ ./up.sh
 
 ## Built With
 
-* [Grafana](http://www.grafana.com) - Data visualization
-* [Mysql](https://www.mysql.com/) - DBMS
-* [Docker](https://www.docker.com) - Virtualization
+* [Grafana](http://www.grafana.com) for Data visualization.
+* [Mysql](https://www.mysql.com/) for DBMS.
+* [Docker](https://www.docker.com) for Virtualization.
 
 ## Credits
 
 * [Dataset](https://data.go.id/dataset/jumlah-pengguna-wifi-bandung-juara/resource/100dea7a-4073-4c3a-b7e4-eb649ac4f4c1) by Satu Data Indonesia. 
-* [Jitsi-Monitoring](https://github.com/haidlir/jitsi-monitoring) by Haidlir Naqvi
-* [Pre-configured Grafana Dashboard](https://ops.tips/blog/initialize-grafana-with-preconfigured-dashboards/) by Ciro Costa
+* [Jitsi-Monitoring](https://github.com/haidlir/jitsi-monitoring) by Haidlir Naqvi.
+* [Pre-configured Grafana Dashboard](https://ops.tips/blog/initialize-grafana-with-preconfigured-dashboards/) by Ciro Costa.
 
 ##### Question/Inquiries
 If you have any question regarding the repo, feel free to e-mail me at reva.wiki@gmail.com. Thank you.

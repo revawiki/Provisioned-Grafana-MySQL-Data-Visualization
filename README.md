@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Install Docker & Docker-Compose if it hasn't been installed on your machine and run it.
+1. Install Docker & Docker-Compose if it hasn't been installed on your machine and run it.\
 [Docker Install](https://docs.docker.com/get-docker/) & [Docker-Compose Install](https://docs.docker.com/compose/install/)
 
 2. Clone this repository into your machine.
@@ -28,6 +28,7 @@ $ ./up.sh
 2. Datasource & Dashboard in Home should've been shown as complete (because it's pre-configured). 
 
 3. Access the pre-created dashboard titled 'Wifi Bandung Juara'. Expected visual here :
+![Grafana-Dashboard](https://raw.githubusercontent.com/revawiki/Provisioned-Grafana-MySQL-Data-Visualization/dashboard.png "Grafana-Dashboard")
 
 ## Built With
 

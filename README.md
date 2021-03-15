@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 2. Clone this repository into your machine.
 ```
-$ git clone https://github.com/revawiki/Provisioned-Grafana-MySQL-Data-Visualization
+$ git clone https://github.com/revawiki/Provisioned-Grafana-MySQL-Data-Visualization.git
 ```
 
 3. Go to the cloned directory, and execute this bashfile (with Docker running in the background).
